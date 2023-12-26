@@ -1,4 +1,4 @@
-module example/Go-Api-Tutorial
+module Learn-Go-Api
 
 go 1.21.5
 
